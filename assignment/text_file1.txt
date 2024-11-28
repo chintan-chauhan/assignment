@@ -1,0 +1,9 @@
+File functions are used in programming to handle operations like creating, reading, writting, and deleting files.
+They allow programs to intereact with data stored in files, enabling persistent storage and reterieval of information.
+Always remember to close the file after you're done to free up system resources.
+powerbi
+tableu
+excel
+statistics
+python
+SQL
